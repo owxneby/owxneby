@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owxneby
+- 👋 Hi, I’m @Owen
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on about anything
