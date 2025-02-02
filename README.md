@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Owen
-- 👀 I’m interested in computer software and hardware
+- 👀 I’m interested in Web development, software and hardware
 - 🌱 I’m currently learning python and bash for scripting and automation
 - 💞️ I’m looking to collaborate on about anything
 - 📫 How to reach me ...
